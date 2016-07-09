@@ -1,0 +1,13 @@
+/src/modules/editor/public/javascripts/editDesign/configurationMenu/menuItem/Border/BorderItem.js: line 47, col 13, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/editDesign/DesignManager/responsive/MenuManager.js: line 116, col 25, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/editDesign/DesignManager/responsive/MenuManager.js: line 120, col 29, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/editDesign/DesignManager/responsive/MenuManager.js: line 121, col 29, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/editDesign/helper/guestlistClickHandler.js: line 7, col 17, Warning - Assignment to location can be unsafe (scanjs-rules/assign_to_location)
+/src/modules/editor/public/javascripts/editDesign/module/Guestlist/button/GuestlistTypeChooseItem.js: line 35, col 13, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/editor.js: line 50, col 5, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/workflow/details.js: line 17, col 13, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/workflow/generalInformation.js: line 97, col 4, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/workflow/generalInformation.js: line 106, col 4, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+/src/modules/editor/public/javascripts/workflow/guestlist.js: line 46, col 6, Warning - The function hide can be unsafe (scanjs-rules/call_hide)
+
+11 problems
